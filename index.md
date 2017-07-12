@@ -1,5 +1,5 @@
 ## Contact
-:metal: You can reach me [here](mailto:bfuzzell@gmail.com?Subject=Nice%20GitHub%20Page).
+Say hi. You can reach me [here](mailto:bfuzzell@gmail.com?Subject=Nice%20GitHub%20Page). I'm on [LinkedIn](https://www.linkedin.com/in/brianfuzzell/) too.
 
 ## Experience
 ### QA (Software testing)
