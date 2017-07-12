@@ -1,5 +1,5 @@
 ## Contact
-:boom: You can reach me [here](mailto:bfuzzell@gmail.com?Subject=Nice%20GitHub%20Page).
+:metal: You can reach me [here](mailto:bfuzzell@gmail.com?Subject=Nice%20GitHub%20Page).
 
 ## Experience
 ### QA (Software testing)
