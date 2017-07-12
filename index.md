@@ -32,7 +32,7 @@ University of Evansville - BS, Mass Communications, Advertising, Business
 Nashville State Community College - Visual Communications major working toward Associates Degree in Graphic Design 
 
 ## Volunteer Experience
-**Volunteer Builder**
+### Volunteer Builder
 [Habitat for Humanity Williamson-Maury](https://hfhwm.org/), April 2017
 
 I spent the better part of two weeks helping Habitat for Humanity build new homes with partner families. It was an incredible experience that I hope to do yearly.
