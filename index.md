@@ -1,5 +1,5 @@
 ## Contact
-Say hi. You can reach me [here](mailto:bfuzzell@gmail.com?Subject=Nice%20GitHub%20Page). I'm on [LinkedIn](https://www.linkedin.com/in/brianfuzzell/) too.
+Say hi! You can reach me [here](mailto:bfuzzell@gmail.com). I'm on [LinkedIn](https://www.linkedin.com/in/brianfuzzell/) too.
 
 ## Experience
 ### QA (Software testing)
@@ -38,5 +38,5 @@ Scheduling, booking and performing concert tours and promotional events in 21 st
 ### Volunteer Builder
 [Habitat for Humanity Williamson-Maury](https://hfhwm.org/), April 2017
 
-I spent the better part of two weeks helping Habitat for Humanity build new homes with partner families. It was an incredible experience that I hope to do yearly.
+I spent the better part of two weeks helping Habitat for Humanity build new homes with partner families. It was an incredible experience serving my community and neighbors. I hope to regularly volunteer in this way.
 
