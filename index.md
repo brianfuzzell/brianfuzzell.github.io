@@ -1,5 +1,6 @@
 ## Experience
-### QA (Software testing) / [Emma, Inc](http://www.myemma.com)
+### QA (Software testing)
+[Emma, Inc](http://www.myemma.com)
 March 2010 – Present
 
 **QA (Software testing)**
@@ -14,13 +15,13 @@ _Supporting marketers through design and coding best practices and world-class c
 
 Coding customer designs and templates to meet HTML email standards in Emma’s web application; Technical support and testing for customers by email and phone; Converting template code to best responsive experience on mobile devices; Serving as coding and teaching resource to customer teams; Creating resources and training new hires
 
-**Graphic and Production Designer**
+### Graphic and Production Designer
 [FSi](http://www.myfsi.net)
 December 2005 – March 2010 
 
 Designing in-store signage for major national account; Pre-press checking client art files to meet print standards; Creating logo concepts; Client invoicing and financial reporting
 		
-**Marketing, Booking Agent, Chief Drumming Officer**
+### Marketing, Booking Agent, Chief Drumming Officer
 [The Nobility](http://www.thenobility.com/about)
 September 2005 – December 2009
 
