@@ -1,3 +1,6 @@
+## Contact
+:boom: You can reach me [here](mailto:bfuzzell@gmail.com?Subject=Nice%20GitHub%20Page).
+
 ## Experience
 ### QA (Software testing)
 [Emma, Inc](http://www.myemma.com), March 2010 – Present
