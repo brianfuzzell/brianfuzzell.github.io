@@ -15,7 +15,7 @@ Testing features and bug fixes in Emma’s content editor; Writing plans for dev
 
 _Supporting marketers through design and coding best practices and world-class customer service_
 
-Coding customer designs and templates to meet HTML email standards in Emma’s web application; Technical support and testing for customers by email and phone; Converting template code to best responsive experience on mobile devices; Serving as coding and teaching resource to customer teams; Creating orientation materials and training new hires
+Technical support and testing for customers by email and phone; Coding customer designs and templates to meet HTML email standards in Emma’s web application; Converting template code to best responsive experience on mobile devices; Serving as coding and teaching resource to customer teams; Creating orientation materials and training new hires
 
 ### Graphic and Production Designer
 [FSi](http://www.myfsi.net), December 2005 – March 2010 
