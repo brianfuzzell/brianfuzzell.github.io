@@ -34,22 +34,22 @@ Scheduling, booking and performing concert tours and promotional events in 21 st
 [Nashville State Community College](https://www.nscc.edu/) - Visual Communications studies 
 
 ## Volunteer Experience
-***Volunteer Builder***
+Volunteer Builder
 [Habitat for Humanity Williamson-Maury](https://hfhwm.org/), April 2017
 
 I spent the better part of two weeks helping Habitat for Humanity build new homes with partner families. It was an incredible experience serving my community and neighbors.
 
-***Audio/Visual support***
+Audio/Visual support
 [New Nashville](http://www.newnashville.us/), 2016 - Present
 
 Whenever possible, I help facilitate the presentation and discussions by setting up visuals, sound and recording audio. New Nashville exists to provide a safe place for both churchgoers and non-churchgoers to gather, listen and ask honest questions on a specific, weekly topic.
 
-***Sound team lead***
+Sound team lead
 [City Church of East Nashville](http://www.citychurcheast.org), 2010 - 2013
 
 As sound team leader, I helped setup equipment, sound engineer and record audio; train new sound volunteers; and manage the weekly volunteer schedule.
 
-***Student mentor***
+Student mentor
 [Jobs for Life](http://www.jobsforlife.org/), 2010
 
 During this 10-week summer course, I served as a student mentor. Jobs for Life helps students by teaching the value of getting and keeping a job and the practical skills to do so.
