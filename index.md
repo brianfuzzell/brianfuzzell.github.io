@@ -40,12 +40,12 @@ I spent the better part of two weeks helping Habitat for Humanity build new home
 
 _Audio/Visual support_, [New Nashville](http://www.newnashville.us/), 2016 - Present
 
-Whenever possible, I help facilitate presentations and discussions by setting up projected visuals, sound and recording audio. New Nashville exists to provide a safe place for both churchgoers and non-churchgoers to gather, listen and ask honest questions on a specific, weekly topic.
+Whenever possible, I help facilitate presentations and discussions by setting up projected visuals, sound and recording audio. 
 
-_Sound team lead_, [City Church of East Nashville](http://www.citychurcheast.org), 2010 - 2013
+_Sound Team Leader_, [City Church of East Nashville](http://www.citychurcheast.org), 2010 - 2013
 
 As sound team leader, I helped setup equipment, monitored sound levels and recorded audio; trained new sound volunteers; and managed the weekly volunteer schedule.
 
-_Student mentor_, [Jobs for Life](http://www.jobsforlife.org/), 2010
+_Student Champion_, [Jobs for Life](http://www.jobsforlife.org/), 2010
 
-During this 10-week summer course, I served as a student mentor. Jobs for Life helps students by teaching the value of getting and keeping a job and the practical skills to do so.
+During this 10-week summer course, I mentored a student through the learning process and value of getting and keeping a job and the practical skills to do so.
