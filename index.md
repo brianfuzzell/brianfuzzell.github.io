@@ -36,15 +36,15 @@ Scheduling, booking and performing concert tours and promotional events in 21 st
 ## Volunteer Experience
 _Volunteer builder_, [Habitat for Humanity Williamson-Maury](https://hfhwm.org/), April 2017
 
-I spent the better part of two weeks helping Habitat for Humanity build new homes with partner families. It was an incredible experience serving my community and neighbors.
+I spent the better part of two weeks building new homes with Habitat for Humanity and partner families. It was an incredible experience serving my community and neighbors.
 
 _Audio/Visual support_, [New Nashville](http://www.newnashville.us/), 2016 - Present
 
-Whenever possible, I help facilitate presentations and discussions by setting up projected visuals, sound and recording audio. 
+I help facilitate presentations and discussions by setting up projected visuals, sound system and recording speaker audio. 
 
 _Sound Team Leader_, [City Church of East Nashville](http://www.citychurcheast.org), 2010 - 2013
 
-As sound team leader, I helped setup equipment, monitored sound levels and recorded audio; trained new sound volunteers; and managed the weekly volunteer schedule.
+As sound team leader, I setup equipment, monitored sound levels and recorded audio; trained new sound volunteers; and managed the weekly volunteer schedule.
 
 _Student Champion_, [Jobs for Life](http://www.jobsforlife.org/), 2010
 
