@@ -48,4 +48,4 @@ As sound team leader, I setup equipment, monitored sound levels and recorded aud
 
 _Student Champion_, [Jobs for Life](http://www.jobsforlife.org/), 2010
 
-During this 10-week summer course, I mentored a student through the learning process and value of getting and keeping a job and the practical skills to do so.
+During this 10-week summer course, I mentored a student through the value and learning process of getting and keeping a job - and the practical skills needed to do so.
