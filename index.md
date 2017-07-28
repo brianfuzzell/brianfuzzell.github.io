@@ -7,7 +7,7 @@ Say hi! You can reach me [here](mailto:bfuzzell@gmail.com). I'm on [LinkedIn](ht
 
 _Serving and supporting customers by helping to improve the Emma web application_
 
-Championing customer needs by testing features and bug fixes in Emma’s content editor; Writing plans for development and team testing; Documenting test feedback to software engineers through written steps to replicate, screencasts, screenshots; Communicating and translating engineering terminology into simple, brief staff-wide deployment announcements; Usability testing Emma’s Android and iOS mobile apps Metric and Guestbook
+Championing customer needs by testing features and bug fixes in Emma’s content editor; Writing plans for development and team testing in an agile framework; Documenting test feedback to software engineers through written steps to replicate, screencasts, screenshots; Communicating and translating engineering terminology into simple, brief staff-wide deployment announcements; Usability testing Emma’s Android and iOS mobile apps Metric and Guestbook
 
 ### HTML Production Designer
 [Emma, Inc](http://www.myemma.com), March 2010 - February 2014
