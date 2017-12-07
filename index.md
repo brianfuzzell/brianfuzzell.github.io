@@ -3,7 +3,7 @@ Say hi! You can reach me [here](mailto:bfuzzell@gmail.com). I'm on [LinkedIn](ht
 
 ## Experience
 ### QA (Software testing)
-[Emma, Inc](http://www.myemma.com), March 2014 – Present
+[Emma, Inc](http://www.myemma.com), March 2014 – December 2017
 
 _Serving and supporting customers by helping to improve the Emma web application_
 
