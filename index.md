@@ -5,8 +5,8 @@ Say hi! You can reach me [here](mailto:bfuzzell@gmail.com). I'm on [LinkedIn](ht
 ### QA (Software testing)
 [Emma, Inc](http://www.myemma.com), March 2014 – December 2017
 
-_Advocating and serving customers by improving the Emma web application_
-- Championing customer needs by testing features and bug fixes in Emma’s content editor
+_Serving and championing customers by improving the Emma web application_
+- Lobbying customer needs by testing features and bug fixes in Emma’s content editor
 - Writing plans for development and team testing in an agile framework
 - Documenting test feedback to software engineers through written steps to replicate, screencasts, screenshots
 - Communicating and translating engineering terminology into simple, brief staff-wide deployment announcements
@@ -16,7 +16,7 @@ _Advocating and serving customers by improving the Emma web application_
 [Emma, Inc](http://www.myemma.com), March 2010 - February 2014
 
 _Supporting marketers through design and coding best practices and world-class customer service_
-- Technical support and testing for customers by email and phone
+- Technical support, testing and troubleshooting via email and phone
 - Coding customer designs and templates to meet HTML email standards in Emma’s web application
 - Converting template code to best responsive experience on mobile devices
 - Serving as coding and teaching resource to customer teams
