@@ -1,4 +1,4 @@
-Customer-first approach to software through clear communication, thoughtful testing and design
+_Customer-first approach to software through clear communication, thoughtful testing and design_
 
 ## Contact
 Say hi! You can reach me [here](mailto:bfuzzell@gmail.com). I'm on [LinkedIn](https://www.linkedin.com/in/brianfuzzell/) too.
