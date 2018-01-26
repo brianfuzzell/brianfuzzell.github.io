@@ -4,25 +4,49 @@ _Customer-first approach to software through clear communication, thoughtful tes
 Hi there! You can reach me [here](mailto:bfuzzell@gmail.com). I'm on [LinkedIn](https://www.linkedin.com/in/brianfuzzell/) too.
 
 ## Experience
-### QA (Software testing)
+### QA Analyst
 [Emma, Inc](http://www.myemma.com), March 2014 – December 2017
 
-_Serving and championing customers by improving Emma's content editor application_
-- Lobbying customer needs by testing features and bug fixes in email and landing page software
-- Writing plans for development and team testing in an agile framework
-- Documenting test feedback to software engineers through written steps to replicate, screencasts, screenshots
-- Communicating and translating engineering terminology into simple, brief staff-wide deployment announcements
+_Usability and manually testing to improve Emma’s web and mobile applications_
+
+Testing
+- Championing customer needs by testing features and bug fixes in email and landing page software
+- Lead functional, regression, smoke, and acceptance testing for every sprint iteration of work
+- UI and UX front-end testing in JavaScript codebase
 - Usability testing Emma’s Android and iOS mobile apps Metric and Guestbook
+
+Project Management
+- Agile project management tracking and documentation in Jira and Trello software
+
+Deployment
+- Organized and implemented software release schedules between multiple development teams
+- Continuous integration and code deployment using Jenkins UI and command line
+- Communicating deployment details as simple, concise written announcements to entire staff
+
+Communication
+- Writing and creating user stories, test cases, and test plans in an agile framework
+- Documenting test feedback, issues, and bugs through written steps to replicate, screencasts, screenshots
+- Liaison between development and customer teams
 
 ### HTML Production Designer
 [Emma, Inc](http://www.myemma.com), March 2010 - February 2014
 
 _Supporting marketers through design and coding best practices and world-class customer service_
-- Teaching the principles of HTML for email to all customer-facing teams (50% of staff)
-- Technical support, testing and troubleshooting via email and phone
+
+Design
 - Coding customer designs and templates to meet HTML email standards in Emma’s web application
 - Converting template code to best responsive experience on mobile devices
-- Creating orientation materials and on-boarding new hires
+- Completing template design changes, revisions, and rush requests
+
+Customer Support
+- Technical support via email and phone
+- Email template testing and troubleshooting 
+- Salesforce CRM
+
+Training
+- Creating and leading a four-week class to teach the principles of ‘HTML for Email’ to all customer-facing teams (50% of staff)
+- Developing orientation materials
+- Onboarding new hires
 
 ### Graphic and Production Designer
 [FSi](http://www.myfsi.net), December 2005 – March 2010 
@@ -30,7 +54,7 @@ _Supporting marketers through design and coding best practices and world-class c
 - Designing in-store signage for major national account
 - Pre-press checking client art files to meet print standards
 - Creating logo concepts
-- Client invoicing and financial reporting
+- Project management, client invoicing, and financial reporting in Workamajig software
 		
 ### Marketing, Booking Agent, Chief Drumming Officer
 [The Nobility](http://www.thenobility.com/about), September 2005 – December 2009
